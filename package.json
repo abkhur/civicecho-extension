@@ -1,0 +1,10 @@
+{
+  "name": "civicecho-extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "webextension-polyfill": "^0.12.0"
+  }
+}

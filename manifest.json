@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "CivicEcho Autofill",
+  "version": "0.1.0",
+  "description": "Save CivicEcho data and autofill congressional contact forms.",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "http://localhost:3001/*",
+    "https://civicecho.org/*",
+    "https://*.house.gov/*",
+    "https://*.senate.gov/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["http://localhost:3001/*"],
+      "js": ["content_script.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": ["https://*.house.gov/*", "https://*.senate.gov/*"],
+      "js": ["content_script.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
