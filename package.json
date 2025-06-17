@@ -2,9 +2,17 @@
   "name": "civicecho-extension",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "AGPL-3.0-only",
   "dependencies": {
+    "cheerio": "^1.0.0",
     "js-yaml": "^4.1.0",
+    "node-fetch": "2",
     "webextension-polyfill": "^0.12.0"
+  },
+  "type": "module",
+  "scripts": {
+    "build-specs": "node scripts/build-specs.js",
+    "check-sites": "node scripts/check-sites.js",
+    "stub-and-missing": "node scripts/report-stub-and-missing.js"
   }
 }

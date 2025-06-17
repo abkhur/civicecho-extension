@@ -1,0 +1,3652 @@
+{
+  "missingHosts": [
+    "barrymoore.house.gov",
+    "figures.house.gov",
+    "strong.house.gov",
+    "begich.house.gov",
+    "schweikert.house.gov",
+    "crane.house.gov",
+    "ansari.house.gov",
+    "stanton.house.gov",
+    "ciscomani.house.gov",
+    "clerk.house.gov",
+    "hamadeh.house.gov",
+    "gosar.house.gov",
+    "hill.house.gov",
+    "kiley.house.gov",
+    "mikethompson.house.gov",
+    "bera.house.gov",
+    "harder.house.gov",
+    "simon.house.gov",
+    "gray.house.gov",
+    "swalwell.house.gov",
+    "kevinmullin.house.gov",
+    "liccardo.house.gov",
+    "khanna.house.gov",
+    "fong.house.gov",
+    "valadao.house.gov",
+    "obernolte.house.gov",
+    "carbajal.house.gov",
+    "whitesides.house.gov",
+    "rivas.house.gov",
+    "friedman.house.gov",
+    "cisneros.house.gov",
+    "gomez.house.gov",
+    "torres.house.gov",
+    "kamlager-dove.house.gov",
+    "youngkim.house.gov",
+    "robertgarcia.house.gov",
+    "barragan.house.gov",
+    "tran.house.gov",
+    "min.house.gov",
+    "issa.house.gov",
+    "levin.house.gov",
+    "sarajacobs.house.gov",
+    "neguse.house.gov",
+    "boebert.house.gov",
+    "crank.house.gov",
+    "crow.house.gov",
+    "pettersen.house.gov",
+    "gabeevans.house.gov",
+    "hayes.house.gov",
+    "mcbride.house.gov",
+    "patronis.house.gov",
+    "dunn.house.gov",
+    "cammack.house.gov",
+    "bean.house.gov",
+    "fine.house.gov",
+    "mills.house.gov",
+    "haridopolos.house.gov",
+    "frost.house.gov",
+    "luna.house.gov",
+    "laurellee.house.gov",
+    "steube.house.gov",
+    "franklin.house.gov",
+    "donalds.house.gov",
+    "cherfilus-mccormick.house.gov",
+    "moskowitz.house.gov",
+    "salazar.house.gov",
+    "gimenez.house.gov",
+    "jack.house.gov",
+    "nikemawilliams.house.gov",
+    "mcbath.house.gov",
+    "mccormick.house.gov",
+    "clyde.house.gov",
+    "collins.house.gov",
+    "greene.house.gov",
+    "moylan.house.gov",
+    "case.house.gov",
+    "tokuda.house.gov",
+    "fulcher.house.gov",
+    "jonathanjackson.house.gov",
+    "ramirez.house.gov",
+    "chuygarcia.house.gov",
+    "quigley.house.gov",
+    "casten.house.gov",
+    "krishnamoorthi.house.gov",
+    "schneider.house.gov",
+    "budzinski.house.gov",
+    "underwood.house.gov",
+    "marymiller.house.gov",
+    "sorensen.house.gov",
+    "mrvan.house.gov",
+    "yakym.house.gov",
+    "stutzman.house.gov",
+    "baird.house.gov",
+    "spartz.house.gov",
+    "shreve.house.gov",
+    "messmer.house.gov",
+    "houchin.house.gov",
+    "millermeeks.house.gov",
+    "hinson.house.gov",
+    "nunn.house.gov",
+    "feenstra.house.gov",
+    "mann.house.gov",
+    "schmidt.house.gov",
+    "davids.house.gov",
+    "estes.house.gov",
+    "guthrie.house.gov",
+    "mcgarvey.house.gov",
+    "massie.house.gov",
+    "scalise.house.gov",
+    "troycarter.house.gov",
+    "letlow.house.gov",
+    "fields.house.gov",
+    "golden.house.gov",
+    "olszewski.house.gov",
+    "elfreth.house.gov",
+    "ivey.house.gov",
+    "mcclaindelaney.house.gov",
+    "mfume.house.gov",
+    "neal.house.gov",
+    "mcgovern.house.gov",
+    "trahan.house.gov",
+    "auchincloss.house.gov",
+    "pressley.house.gov",
+    "bergman.house.gov",
+    "scholten.house.gov",
+    "debbiedingell.house.gov",
+    "barrett.house.gov",
+    "mcdonaldrivet.house.gov",
+    "mcclain.house.gov",
+    "james.house.gov",
+    "stevens.house.gov",
+    "tlaib.house.gov",
+    "thanedar.house.gov",
+    "finstad.house.gov",
+    "craig.house.gov",
+    "morrison.house.gov",
+    "omar.house.gov",
+    "fischbach.house.gov",
+    "stauber.house.gov",
+    "benniethompson.house.gov",
+    "guest.house.gov",
+    "ezell.house.gov",
+    "bell.house.gov",
+    "onder.house.gov",
+    "alford.house.gov",
+    "burlison.house.gov",
+    "zinke.house.gov",
+    "downing.house.gov",
+    "flood.house.gov",
+    "bacon.house.gov",
+    "susielee.house.gov",
+    "horsford.house.gov",
+    "pappas.house.gov",
+    "goodlander.house.gov",
+    "vandrew.house.gov",
+    "gottheimer.house.gov",
+    "pallone.house.gov",
+    "kean.house.gov",
+    "menendez.house.gov",
+    "pou.house.gov",
+    "mciver.house.gov",
+    "sherrill.house.gov",
+    "stansbury.house.gov",
+    "vasquez.house.gov",
+    "fernandez.house.gov",
+    "lalota.house.gov",
+    "garbarino.house.gov",
+    "gillen.house.gov",
+    "jeffries.house.gov",
+    "goldman.house.gov",
+    "malliotakis.house.gov",
+    "nadler.house.gov",
+    "espaillat.house.gov",
+    "ocasio-cortez.house.gov",
+    "ritchietorres.house.gov",
+    "latimer.house.gov",
+    "lawler.house.gov",
+    "patryan.house.gov",
+    "riley.house.gov",
+    "tonko.house.gov",
+    "mannion.house.gov",
+    "langworthy.house.gov",
+    "tenney.house.gov",
+    "morelle.house.gov",
+    "dondavis.house.gov",
+    "ross.house.gov",
+    "murphy.house.gov",
+    "foushee.house.gov",
+    "mcdowell.house.gov",
+    "markharris.house.gov",
+    "harrigan.house.gov",
+    "edwards.house.gov",
+    "adams.house.gov",
+    "knott.house.gov",
+    "timmoore.house.gov",
+    "fedorchak.house.gov",
+    "king-hinds.house.gov",
+    "landsman.house.gov",
+    "taylor.house.gov",
+    "beatty.house.gov",
+    "rulli.house.gov",
+    "maxmiller.house.gov",
+    "shontelbrown.house.gov",
+    "balderson.house.gov",
+    "sykes.house.gov",
+    "carey.house.gov",
+    "hern.house.gov",
+    "brecheen.house.gov",
+    "cole.house.gov",
+    "bice.house.gov",
+    "bentz.house.gov",
+    "dexter.house.gov",
+    "hoyle.house.gov",
+    "bynum.house.gov",
+    "salinas.house.gov",
+    "fitzpatrick.house.gov",
+    "dean.house.gov",
+    "scanlon.house.gov",
+    "houlahan.house.gov",
+    "mackenzie.house.gov",
+    "bresnahan.house.gov",
+    "meuser.house.gov",
+    "summerlee.house.gov",
+    "johnjoyce.house.gov",
+    "reschenthaler.house.gov",
+    "deluzio.house.gov",
+    "hernandez.house.gov",
+    "amo.house.gov",
+    "magaziner.house.gov",
+    "mace.house.gov",
+    "sheribiggs.house.gov",
+    "timmons.house.gov",
+    "norman.house.gov",
+    "fry.house.gov",
+    "dustyjohnson.house.gov",
+    "harshbarger.house.gov",
+    "burchett.house.gov",
+    "ogles.house.gov",
+    "johnrose.house.gov",
+    "markgreen.house.gov",
+    "moran.house.gov",
+    "crenshaw.house.gov",
+    "keithself.house.gov",
+    "fallon.house.gov",
+    "gooden.house.gov",
+    "ellzey.house.gov",
+    "fletcher.house.gov",
+    "luttrell.house.gov",
+    "pfluger.house.gov",
+    "craiggoldman.house.gov",
+    "jackson.house.gov",
+    "weber.house.gov",
+    "delacruz.house.gov",
+    "escobar.house.gov",
+    "sessions.house.gov",
+    "roy.house.gov",
+    "nehls.house.gov",
+    "gonzales.house.gov",
+    "vanduyne.house.gov",
+    "gill.house.gov",
+    "cloud.house.gov",
+    "sylviagarcia.house.gov",
+    "crockett.house.gov",
+    "juliejohnson.house.gov",
+    "veasey.house.gov",
+    "casar.house.gov",
+    "hunt.house.gov",
+    "blakemoore.house.gov",
+    "maloy.house.gov",
+    "mikekennedy.house.gov",
+    "owens.house.gov",
+    "balint.house.gov",
+    "wittman.house.gov",
+    "kiggans.house.gov",
+    "mcclellan.house.gov",
+    "mcguire.house.gov",
+    "cline.house.gov",
+    "vindman.house.gov",
+    "beyer.house.gov",
+    "subramanyam.house.gov",
+    "connolly.house.gov",
+    "plaskett.house.gov",
+    "gluesenkampperez.house.gov",
+    "baumgartner.house.gov",
+    "randall.house.gov",
+    "schrier.house.gov",
+    "strickland.house.gov",
+    "miller.house.gov",
+    "rileymoore.house.gov",
+    "steil.house.gov",
+    "vanorden.house.gov",
+    "fitzgerald.house.gov",
+    "tiffany.house.gov",
+    "wied.house.gov",
+    "hageman.house.gov"
+  ],
+  "healthChecks": [
+    {
+      "slug": "A000055",
+      "host": "aderholt.house.gov",
+      "url": "https://aderholt.house.gov/contact-robert",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "A000360",
+      "host": "www.alexander.senate.gov",
+      "url": "http://www.alexander.senate.gov/public/index.cfm?p=Email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://www.alexander.senate.gov/public/index.cfm?p=Email failed, reason: getaddrinfo ENOTFOUND www.alexander.senate.gov"
+    },
+    {
+      "slug": "A000367",
+      "host": "amash.house.gov",
+      "url": "https://amash.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://amash.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND amash.house.gov"
+    },
+    {
+      "slug": "A000369",
+      "host": "amodei.house.gov",
+      "url": "https://amodei.house.gov/email-me/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "A000370",
+      "host": "adamsforms.house.gov",
+      "url": "http://adamsforms.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "A000371",
+      "host": "aguilar.house.gov",
+      "url": "https://aguilar.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "A000372",
+      "host": "allen.house.gov",
+      "url": "http://allen.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "A000374",
+      "host": "abraham.house.gov",
+      "url": "https://abraham.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://abraham.house.gov/contact failed, reason: getaddrinfo ENOTFOUND abraham.house.gov"
+    },
+    {
+      "slug": "A000375",
+      "host": "arrington.house.gov",
+      "url": "https://arrington.house.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "A000382",
+      "host": "www.alsobrooks.senate.gov",
+      "url": "https://www.alsobrooks.senate.gov/share-your-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B000490",
+      "host": "bishop.house.gov",
+      "url": "http://bishop.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B000574",
+      "host": "blumenauer.house.gov",
+      "url": "https://blumenauer.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://blumenauer.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND blumenauer.house.gov"
+    },
+    {
+      "slug": "B000575",
+      "host": "www.blunt.senate.gov",
+      "url": "https://www.blunt.senate.gov/contact/contact-roy",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.blunt.senate.gov/contact/contact-roy failed, reason: getaddrinfo ENOTFOUND www.blunt.senate.gov"
+    },
+    {
+      "slug": "B000755",
+      "host": "kevinbradyforms.house.gov",
+      "url": "http://kevinbradyforms.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://kevinbradyforms.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND kevinbradyforms.house.gov"
+    },
+    {
+      "slug": "B000944",
+      "host": "www.brown.senate.gov",
+      "url": "https://www.brown.senate.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.brown.senate.gov/contact/email failed, reason: getaddrinfo ENOTFOUND www.brown.senate.gov"
+    },
+    {
+      "slug": "B001135",
+      "host": "www.burr.senate.gov",
+      "url": "https://www.burr.senate.gov/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.burr.senate.gov/email-me failed, reason: getaddrinfo ENOTFOUND www.burr.senate.gov"
+    },
+    {
+      "slug": "B001230",
+      "host": "www.baldwin.senate.gov",
+      "url": "https://www.baldwin.senate.gov/contact/contact-tammy",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001236",
+      "host": "www.boozman.senate.gov",
+      "url": "https://www.boozman.senate.gov/public/index.cfm/e-mail-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001243",
+      "host": "www.blackburn.senate.gov",
+      "url": "https://www.blackburn.senate.gov/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001248",
+      "host": "burgess.house.gov",
+      "url": "http://burgess.house.gov/contact/356345.htm",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://burgess.house.gov/contact/356345.htm failed, reason: getaddrinfo ENOTFOUND burgess.house.gov"
+    },
+    {
+      "slug": "B001250",
+      "host": "robbishop.house.gov",
+      "url": "https://robbishop.house.gov/contact/contactform.htm",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://robbishop.house.gov/contact/contactform.htm failed, reason: getaddrinfo ENOTFOUND robbishop.house.gov"
+    },
+    {
+      "slug": "B001251",
+      "host": "butterfield.house.gov",
+      "url": "https://butterfield.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://butterfield.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND butterfield.house.gov"
+    },
+    {
+      "slug": "B001257",
+      "host": "bilirakis.house.gov",
+      "url": "http://bilirakis.house.gov/email-congressman-bilirakis",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "B001260",
+      "host": "buchanan.house.gov",
+      "url": "https://buchanan.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001261",
+      "host": "www.barrasso.senate.gov",
+      "url": "http://www.barrasso.senate.gov/public/index.cfm/contact-form",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001305",
+      "host": "outreach.senate.gov",
+      "url": "https://outreach.senate.gov/iqextranet/EForm.aspx?__cid=quorum_budd-iq&__fid=100007",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001270",
+      "host": "bass.house.gov",
+      "url": "https://bass.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://bass.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND bass.house.gov"
+    },
+    {
+      "slug": "B001274",
+      "host": "brooks.house.gov",
+      "url": "https://brooks.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://brooks.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND brooks.house.gov"
+    },
+    {
+      "slug": "B001275",
+      "host": "bucshon.house.gov",
+      "url": "https://bucshon.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://bucshon.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND bucshon.house.gov"
+    },
+    {
+      "slug": "B001277",
+      "host": "www.blumenthal.senate.gov",
+      "url": "https://www.blumenthal.senate.gov/contact/write-to-senator-blumenthal",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001278",
+      "host": "bonamici.house.gov",
+      "url": "https://bonamici.house.gov/contact-me/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "B001281",
+      "host": "beattyforms.house.gov",
+      "url": "https://beattyforms.house.gov/forms/writeyourrep/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001282",
+      "host": "barr.house.gov",
+      "url": "https://barr.house.gov/contact/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "B001284",
+      "host": "susanwbrooks.house.gov",
+      "url": "https://susanwbrooks.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://susanwbrooks.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND susanwbrooks.house.gov"
+    },
+    {
+      "slug": "B001285",
+      "host": "juliabrownley.house.gov",
+      "url": "https://juliabrownley.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001286",
+      "host": "bustos.house.gov",
+      "url": "https://bustos.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://bustos.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND bustos.house.gov"
+    },
+    {
+      "slug": "B001287",
+      "host": "beraforms.house.gov",
+      "url": "https://beraforms.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://beraforms.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND beraforms.house.gov"
+    },
+    {
+      "slug": "B001288",
+      "host": "www.booker.senate.gov",
+      "url": "https://www.booker.senate.gov/contact/write-to-cory/form",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001289",
+      "host": "byrne.house.gov",
+      "url": "https://byrne.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://byrne.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND byrne.house.gov"
+    },
+    {
+      "slug": "B001291",
+      "host": "babin.house.gov",
+      "url": "https://babin.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001292",
+      "host": "beyerforms.house.gov",
+      "url": "https://beyerforms.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001295",
+      "host": "bost.house.gov",
+      "url": "https://bost.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001296",
+      "host": "boyle.house.gov",
+      "url": "https://boyle.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001297",
+      "host": "buck.house.gov",
+      "url": "https://buck.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://buck.house.gov/contact failed, reason: getaddrinfo ENOTFOUND buck.house.gov"
+    },
+    {
+      "slug": "S001190",
+      "host": "google.com",
+      "url": "https://google.com",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001299",
+      "host": "www.banks.senate.gov",
+      "url": "https://www.banks.senate.gov/share-your-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "O000171",
+      "host": "bergmanforms.house.gov",
+      "url": "https://bergmanforms.house.gov/forms/writeyourrep/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001302",
+      "host": "biggs.house.gov",
+      "url": "https://biggs.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001303",
+      "host": "www.bluntrochester.senate.gov",
+      "url": "https://www.bluntrochester.senate.gov/share-your-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001304",
+      "host": "anthonybrown.house.gov",
+      "url": "https://anthonybrown.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://anthonybrown.house.gov/contact failed, reason: getaddrinfo ENOTFOUND anthonybrown.house.gov"
+    },
+    {
+      "slug": "B001310",
+      "host": "www.braun.senate.gov",
+      "url": "https://www.braun.senate.gov/contact/email/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.braun.senate.gov/contact/email/ failed, reason: getaddrinfo ENOTFOUND www.braun.senate.gov"
+    },
+    {
+      "slug": "B001319",
+      "host": "www.britt.senate.gov",
+      "url": "https://www.britt.senate.gov/share-your-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "B001320",
+      "host": "www.butler.senate.gov",
+      "url": "https://www.butler.senate.gov/share-your-opinion/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.butler.senate.gov/share-your-opinion/ failed, reason: getaddrinfo ENOTFOUND www.butler.senate.gov"
+    },
+    {
+      "slug": "C000059",
+      "host": "calvert.house.gov",
+      "url": "https://calvert.house.gov/contactform/",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "C000127",
+      "host": "www.cantwell.senate.gov",
+      "url": "https://www.cantwell.senate.gov/contact/email/form",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C000141",
+      "host": "www.cardin.senate.gov",
+      "url": "https://www.cardin.senate.gov/contact/email-ben",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.cardin.senate.gov/contact/email-ben failed, reason: getaddrinfo ENOTFOUND www.cardin.senate.gov"
+    },
+    {
+      "slug": "C000174",
+      "host": "www.carper.senate.gov",
+      "url": "https://www.carper.senate.gov/public/index.cfm/email-senator-carper",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.carper.senate.gov/public/index.cfm/email-senator-carper failed, reason: getaddrinfo ENOTFOUND www.carper.senate.gov"
+    },
+    {
+      "slug": "C000266",
+      "host": "chabot.house.gov",
+      "url": "https://chabot.house.gov/forms/writeyourrep/?zip5=45202&zip4=3003",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://chabot.house.gov/forms/writeyourrep/?zip5=45202&zip4=3003 failed, reason: getaddrinfo ENOTFOUND chabot.house.gov"
+    },
+    {
+      "slug": "C000537",
+      "host": "clyburn.house.gov",
+      "url": "https://clyburn.house.gov/contact-me/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C000754",
+      "host": "cooper.house.gov",
+      "url": "https://cooper.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://cooper.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND cooper.house.gov"
+    },
+    {
+      "slug": "C000880",
+      "host": "www.crapo.senate.gov",
+      "url": "https://www.crapo.senate.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C000984",
+      "host": "cummings.house.gov",
+      "url": "https://cummings.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://cummings.house.gov/contact failed, reason: getaddrinfo ENOTFOUND cummings.house.gov"
+    },
+    {
+      "slug": "C001035",
+      "host": "www.collins.senate.gov",
+      "url": "https://www.collins.senate.gov/contact/email-senator-collins/form",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001047",
+      "host": "www.capito.senate.gov",
+      "url": "https://www.capito.senate.gov/contact/share-your-opinion",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001049",
+      "host": "lacyclay.house.gov",
+      "url": "https://lacyclay.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://lacyclay.house.gov/contact failed, reason: getaddrinfo ENOTFOUND lacyclay.house.gov"
+    },
+    {
+      "slug": "C001051",
+      "host": "carter.house.gov",
+      "url": "https://carter.house.gov/email-john2",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "C001053",
+      "host": "coleforms.house.gov",
+      "url": "https://coleforms.house.gov/contact/default.aspx",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://coleforms.house.gov/contact/default.aspx failed, reason: getaddrinfo ENOTFOUND coleforms.house.gov"
+    },
+    {
+      "slug": "C001056",
+      "host": "www.cornyn.senate.gov",
+      "url": "https://www.cornyn.senate.gov/share-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001059",
+      "host": "costa.house.gov",
+      "url": "https://costa.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001061",
+      "host": "cleaver.house.gov",
+      "url": "https://cleaver.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001062",
+      "host": "conaway.house.gov",
+      "url": "https://conaway.house.gov/forms/writeyourrep/default.aspx",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "C001063",
+      "host": "cuellar.house.gov",
+      "url": "https://cuellar.house.gov/forms/writeyourrep/default.aspx",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001066",
+      "host": "castor.house.gov",
+      "url": "https://castor.house.gov/contact/contactform.htm",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001067",
+      "host": "clarke.house.gov",
+      "url": "https://clarke.house.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001068",
+      "host": "cohen.house.gov",
+      "url": "https://cohen.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001069",
+      "host": "courtney.house.gov",
+      "url": "https://courtney.house.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001070",
+      "host": "www.casey.senate.gov",
+      "url": "https://www.casey.senate.gov/contact/share",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.casey.senate.gov/contact/share failed, reason: getaddrinfo ENOTFOUND www.casey.senate.gov"
+    },
+    {
+      "slug": "C001072",
+      "host": "carson.house.gov",
+      "url": "https://carson.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001075",
+      "host": "www.cassidy.senate.gov",
+      "url": "https://www.cassidy.senate.gov/contact/get-in-touch/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001078",
+      "host": "connollyforms.house.gov",
+      "url": "https://connollyforms.house.gov/contact-gerry1",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001080",
+      "host": "chu.house.gov",
+      "url": "https://chu.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001084",
+      "host": "cicilline.house.gov",
+      "url": "https://cicilline.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://cicilline.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND cicilline.house.gov"
+    },
+    {
+      "slug": "C001087",
+      "host": "crawford.house.gov",
+      "url": "http://crawford.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001088",
+      "host": "www.coons.senate.gov",
+      "url": "https://www.coons.senate.gov/contact/share-your-opinion",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001090",
+      "host": "cartwrightforms.house.gov",
+      "url": "https://cartwrightforms.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://cartwrightforms.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND cartwrightforms.house.gov"
+    },
+    {
+      "slug": "C001091",
+      "host": "castro.house.gov",
+      "url": "https://castro.house.gov/contact/email-me",
+      "status": 410,
+      "ok": false
+    },
+    {
+      "slug": "C001092",
+      "host": "chriscollins.house.gov",
+      "url": "https://chriscollins.house.gov/contact",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "C001093",
+      "host": "dougcollins.house.gov",
+      "url": "https://dougcollins.house.gov/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://dougcollins.house.gov/email-me failed, reason: getaddrinfo ENOTFOUND dougcollins.house.gov"
+    },
+    {
+      "slug": "C001094",
+      "host": "cookforms.house.gov",
+      "url": "http://cookforms.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://cookforms.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND cookforms.house.gov"
+    },
+    {
+      "slug": "C001095",
+      "host": "www.cotton.senate.gov",
+      "url": "https://www.cotton.senate.gov/contact/contact-tom",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001096",
+      "host": "www.cramer.senate.gov",
+      "url": "https://www.cramer.senate.gov/contact/contact-kevin",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001097",
+      "host": "cardenas.house.gov",
+      "url": "https://cardenas.house.gov/contact-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://cardenas.house.gov/contact-me failed, reason: getaddrinfo ENOTFOUND cardenas.house.gov"
+    },
+    {
+      "slug": "C001098",
+      "host": "www.cruz.senate.gov",
+      "url": "https://www.cruz.senate.gov/contact/write-ted/form",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001101",
+      "host": "katherineclark.house.gov",
+      "url": "https://katherineclark.house.gov/index.cfm/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001103",
+      "host": "buddycarter.house.gov",
+      "url": "http://buddycarter.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001108",
+      "host": "comer.house.gov",
+      "url": "https://comer.house.gov/contact/email",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "C001109",
+      "host": "cheney.house.gov",
+      "url": "https://cheney.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://cheney.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND cheney.house.gov"
+    },
+    {
+      "slug": "C001110",
+      "host": "correa.house.gov",
+      "url": "https://correa.house.gov/contact/email",
+      "status": 410,
+      "ok": false
+    },
+    {
+      "slug": "C001111",
+      "host": "cristforms.house.gov",
+      "url": "https://cristforms.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://cristforms.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND cristforms.house.gov"
+    },
+    {
+      "slug": "C001112",
+      "host": "carbajalforms.house.gov",
+      "url": "https://carbajalforms.house.gov/forms/writeyourrep/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001113",
+      "host": "www.cortezmasto.senate.gov",
+      "url": "https://www.cortezmasto.senate.gov/contact/connect",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "C001114",
+      "host": "www.curtis.senate.gov",
+      "url": "https://www.curtis.senate.gov/share-your-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "D000096",
+      "host": "davis.house.gov",
+      "url": "https://davis.house.gov/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "D000191",
+      "host": "defazio.house.gov",
+      "url": "https://defazio.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://defazio.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND defazio.house.gov"
+    },
+    {
+      "slug": "D000197",
+      "host": "degette.house.gov",
+      "url": "https://degette.house.gov/contact/send-me-an-email/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "D000216",
+      "host": "delauro.house.gov",
+      "url": "https://delauro.house.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "D000399",
+      "host": "doggett.house.gov",
+      "url": "https://doggett.house.gov/contact/email",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "D000482",
+      "host": "doyle.house.gov",
+      "url": "https://doyle.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://doyle.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND doyle.house.gov"
+    },
+    {
+      "slug": "D000563",
+      "host": "www.durbin.senate.gov",
+      "url": "http://www.durbin.senate.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "D000598",
+      "host": "susandavisforms.house.gov",
+      "url": "https://susandavisforms.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://susandavisforms.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND susandavisforms.house.gov"
+    },
+    {
+      "slug": "D000600",
+      "host": "mariodiazbalart.house.gov",
+      "url": "http://mariodiazbalart.house.gov/contact-mario/write-rep-diaz-balart",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "D000610",
+      "host": "teddeutch.house.gov",
+      "url": "https://teddeutch.house.gov/forms/writeyourrep/default.aspx",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://teddeutch.house.gov/forms/writeyourrep/default.aspx failed, reason: getaddrinfo ENOTFOUND teddeutch.house.gov"
+    },
+    {
+      "slug": "D000614",
+      "host": "duffy.house.gov",
+      "url": "http://duffy.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://duffy.house.gov/contact failed, reason: getaddrinfo ENOTFOUND duffy.house.gov"
+    },
+    {
+      "slug": "D000615",
+      "host": "jeffduncan.house.gov",
+      "url": "https://jeffduncan.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://jeffduncan.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND jeffduncan.house.gov"
+    },
+    {
+      "slug": "D000616",
+      "host": "desjarlais.house.gov",
+      "url": "http://desjarlais.house.gov/contact/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "D000617",
+      "host": "delbene.house.gov",
+      "url": "https://delbene.house.gov/contact-me/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "D000618",
+      "host": "www.daines.senate.gov",
+      "url": "https://www.daines.senate.gov/services/email-steve/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "D000619",
+      "host": "rodneydavisforms.house.gov",
+      "url": "https://rodneydavisforms.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://rodneydavisforms.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND rodneydavisforms.house.gov"
+    },
+    {
+      "slug": "D000622",
+      "host": "www.duckworth.senate.gov",
+      "url": "https://www.duckworth.senate.gov/connect/email-tammy",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "D000623",
+      "host": "desaulnier.house.gov",
+      "url": "https://desaulnier.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "D000624",
+      "host": "debbiedingellforms.house.gov",
+      "url": "https://debbiedingellforms.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "D000626",
+      "host": "davidson.house.gov",
+      "url": "https://davidson.house.gov/contact/email",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "D000627",
+      "host": "demings.house.gov",
+      "url": "https://demings.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://demings.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND demings.house.gov"
+    },
+    {
+      "slug": "E000179",
+      "host": "engel.house.gov",
+      "url": "https://engel.house.gov/write-your-rep1",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://engel.house.gov/write-your-rep1 failed, reason: getaddrinfo ENOTFOUND engel.house.gov"
+    },
+    {
+      "slug": "E000215",
+      "host": "eshoo.house.gov",
+      "url": "http://eshoo.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://eshoo.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND eshoo.house.gov"
+    },
+    {
+      "slug": "E000285",
+      "host": "www.enzi.senate.gov",
+      "url": "http://www.enzi.senate.gov/public/index.cfm/contact?p=e-mail-senator-enzi",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://www.enzi.senate.gov/public/index.cfm/contact?p=e-mail-senator-enzi failed, reason: getaddrinfo ENOTFOUND www.enzi.senate.gov"
+    },
+    {
+      "slug": "E000294",
+      "host": "emmer.house.gov",
+      "url": "https://emmer.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "E000295",
+      "host": "www.ernst.senate.gov",
+      "url": "https://www.ernst.senate.gov/contact/email-joni",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "E000296",
+      "host": "evans.house.gov",
+      "url": "https://evans.house.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "E000297",
+      "host": "espaillatforms.house.gov",
+      "url": "https://espaillatforms.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://espaillatforms.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND espaillatforms.house.gov"
+    },
+    {
+      "slug": "F000062",
+      "host": "www.feinstein.senate.gov",
+      "url": "https://www.feinstein.senate.gov/public/index.cfm/e-mail-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.feinstein.senate.gov/public/index.cfm/e-mail-me failed, reason: getaddrinfo ENOTFOUND www.feinstein.senate.gov"
+    },
+    {
+      "slug": "F000449",
+      "host": "fortenberry.house.gov",
+      "url": "https://fortenberry.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://fortenberry.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND fortenberry.house.gov"
+    },
+    {
+      "slug": "F000450",
+      "host": "foxx.house.gov",
+      "url": "https://foxx.house.gov/forms/writeyourrep/?zip5=&zip4=",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "F000454",
+      "host": "foster.house.gov",
+      "url": "https://foster.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "F000455",
+      "host": "fudgeforms.house.gov",
+      "url": "https://fudgeforms.house.gov/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://fudgeforms.house.gov/email-me failed, reason: getaddrinfo ENOTFOUND fudgeforms.house.gov"
+    },
+    {
+      "slug": "F000459",
+      "host": "fleischmann.house.gov",
+      "url": "https://fleischmann.house.gov/contact-me/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "F000461",
+      "host": "flores.house.gov",
+      "url": "https://flores.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://flores.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND flores.house.gov"
+    },
+    {
+      "slug": "F000462",
+      "host": "frankel.house.gov",
+      "url": "http://frankel.house.gov/contact/email-me/",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "F000463",
+      "host": "www.fischer.senate.gov",
+      "url": "http://www.fischer.senate.gov/public/?p=email-deb",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "F000465",
+      "host": "ferguson.house.gov",
+      "url": "https://ferguson.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://ferguson.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND ferguson.house.gov"
+    },
+    {
+      "slug": "F000466",
+      "host": "brianfitzpatrick.house.gov",
+      "url": "https://brianfitzpatrick.house.gov/contact/email",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "F000479",
+      "host": "www.fetterman.senate.gov",
+      "url": "https://www.fetterman.senate.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "G000359",
+      "host": "www.lgraham.senate.gov",
+      "url": "http://www.lgraham.senate.gov/public/index.cfm?p=contact-form",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "G000377",
+      "host": "kaygranger.house.gov",
+      "url": "http://kaygranger.house.gov/contact-kay/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://kaygranger.house.gov/contact-kay/email-me failed, reason: getaddrinfo ENOTFOUND kaygranger.house.gov"
+    },
+    {
+      "slug": "G000386",
+      "host": "www.grassley.senate.gov",
+      "url": "https://www.grassley.senate.gov/contact/questions-and-comments",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "G000546",
+      "host": "graves.house.gov",
+      "url": "https://graves.house.gov/contact/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "G000551",
+      "host": "grijalva.house.gov",
+      "url": "https://grijalva.house.gov/email-raul",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "G000552",
+      "host": "gohmert.house.gov",
+      "url": "http://gohmert.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://gohmert.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND gohmert.house.gov"
+    },
+    {
+      "slug": "G000553",
+      "host": "algreen.house.gov",
+      "url": "https://algreen.house.gov/contact-me/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "G000555",
+      "host": "www.gillibrand.senate.gov",
+      "url": "https://www.gillibrand.senate.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "G000558",
+      "host": "brettguthrieforms.house.gov",
+      "url": "http://brettguthrieforms.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "G000559",
+      "host": "garamendi.house.gov",
+      "url": "https://garamendi.house.gov/contact-me/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "G000560",
+      "host": "tomgraves.house.gov",
+      "url": "http://tomgraves.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://tomgraves.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND tomgraves.house.gov"
+    },
+    {
+      "slug": "G000562",
+      "host": "www.gardner.senate.gov",
+      "url": "http://www.gardner.senate.gov/contact-cory/email-cory",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://www.gardner.senate.gov/contact-cory/email-cory failed, reason: getaddrinfo ENOTFOUND www.gardner.senate.gov"
+    },
+    {
+      "slug": "G000563",
+      "host": "gibbs.house.gov",
+      "url": "https://gibbs.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://gibbs.house.gov/contact failed, reason: getaddrinfo ENOTFOUND gibbs.house.gov"
+    },
+    {
+      "slug": "G000565",
+      "host": "paulgosar.house.gov",
+      "url": "http://paulgosar.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "G000568",
+      "host": "morgangriffith.house.gov",
+      "url": "https://morgangriffith.house.gov/contact/contactform.htm",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "G000571",
+      "host": "gabbard.house.gov",
+      "url": "https://gabbard.house.gov/connect/share-your-ideas",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://gabbard.house.gov/connect/share-your-ideas failed, reason: getaddrinfo ENOTFOUND gabbard.house.gov"
+    },
+    {
+      "slug": "G000574",
+      "host": "www.gallego.senate.gov",
+      "url": "https://www.gallego.senate.gov/share-your-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "G000576",
+      "host": "grothman.house.gov",
+      "url": "https://grothman.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "G000577",
+      "host": "garretgraves.house.gov",
+      "url": "https://garretgraves.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://garretgraves.house.gov/contact failed, reason: getaddrinfo ENOTFOUND garretgraves.house.gov"
+    },
+    {
+      "slug": "G000578",
+      "host": "gaetz.house.gov",
+      "url": "https://gaetz.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://gaetz.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND gaetz.house.gov"
+    },
+    {
+      "slug": "G000579",
+      "host": "gallagher.house.gov",
+      "url": "https://gallagher.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://gallagher.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND gallagher.house.gov"
+    },
+    {
+      "slug": "G000581",
+      "host": "gonzalez.house.gov",
+      "url": "https://gonzalez.house.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "G000582",
+      "host": "gonzalez-colon.house.gov",
+      "url": "https://gonzalez-colon.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://gonzalez-colon.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND gonzalez-colon.house.gov"
+    },
+    {
+      "slug": "G000583",
+      "host": "gottheimerforms.house.gov",
+      "url": "https://gottheimerforms.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://gottheimerforms.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND gottheimerforms.house.gov"
+    },
+    {
+      "slug": "H000273",
+      "host": "www.hickenlooper.senate.gov",
+      "url": "https://www.hickenlooper.senate.gov/email-john/#contact-form-emailJohn",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "H000324",
+      "host": "alceehastings.house.gov",
+      "url": "https://alceehastings.house.gov/forms/writeyourrep/?zip5=33407&zip4=3224",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://alceehastings.house.gov/forms/writeyourrep/?zip5=33407&zip4=3224 failed, reason: getaddrinfo ENOTFOUND alceehastings.house.gov"
+    },
+    {
+      "slug": "H000601",
+      "host": "www.hagerty.senate.gov",
+      "url": "https://www.hagerty.senate.gov/email-me/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "H000874",
+      "host": "hoyer.house.gov",
+      "url": "https://hoyer.house.gov/email-steny",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "H001038",
+      "host": "higginsforms.house.gov",
+      "url": "https://higginsforms.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://higginsforms.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND higginsforms.house.gov"
+    },
+    {
+      "slug": "H001042",
+      "host": "www.hirono.senate.gov",
+      "url": "https://www.hirono.senate.gov/share-your-opinion",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "H001046",
+      "host": "www.heinrich.senate.gov",
+      "url": "https://www.heinrich.senate.gov/contact/write-martin/form",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "H001047",
+      "host": "himes.house.gov",
+      "url": "https://himes.house.gov/contact-me/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "H001048",
+      "host": "hunter.house.gov",
+      "url": "https://hunter.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://hunter.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND hunter.house.gov"
+    },
+    {
+      "slug": "H001052",
+      "host": "harris.house.gov",
+      "url": "https://harris.house.gov/contact-me/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "H001053",
+      "host": "hartzler.house.gov",
+      "url": "https://hartzler.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://hartzler.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND hartzler.house.gov"
+    },
+    {
+      "slug": "H001056",
+      "host": "herrerabeutler.house.gov",
+      "url": "http://herrerabeutler.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://herrerabeutler.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND herrerabeutler.house.gov"
+    },
+    {
+      "slug": "H001058",
+      "host": "huizenga.house.gov",
+      "url": "http://huizenga.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "H001061",
+      "host": "www.hoeven.senate.gov",
+      "url": "https://www.hoeven.senate.gov/contact/email-the-senator/form",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "H001064",
+      "host": "dennyheck.house.gov",
+      "url": "https://dennyheck.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://dennyheck.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND dennyheck.house.gov"
+    },
+    {
+      "slug": "H001065",
+      "host": "holding.house.gov",
+      "url": "http://holding.house.gov/contact/email-me/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://holding.house.gov/contact/email-me/ failed, reason: getaddrinfo ENOTFOUND holding.house.gov"
+    },
+    {
+      "slug": "H001067",
+      "host": "hudson.house.gov",
+      "url": "https://hudson.house.gov/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "H001068",
+      "host": "huffman.house.gov",
+      "url": "https://huffman.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "H001071",
+      "host": "hice.house.gov",
+      "url": "https://hice.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://hice.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND hice.house.gov"
+    },
+    {
+      "slug": "H001072",
+      "host": "hillforms.house.gov",
+      "url": "https://Hillforms.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "H001073",
+      "host": "hurd.house.gov",
+      "url": "https://hurd.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "H001074",
+      "host": "hollingsworthforms.house.gov",
+      "url": "https://hollingsworthforms.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://hollingsworthforms.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND hollingsworthforms.house.gov"
+    },
+    {
+      "slug": "H001075",
+      "host": "www.harris.senate.gov",
+      "url": "https://www.harris.senate.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.harris.senate.gov/contact/email failed, reason: getaddrinfo ENOTFOUND www.harris.senate.gov"
+    },
+    {
+      "slug": "H001076",
+      "host": "www.hassan.senate.gov",
+      "url": "https://www.hassan.senate.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "H001077",
+      "host": "clayhiggins.house.gov",
+      "url": "https://clayhiggins.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "H001079",
+      "host": "www.hydesmith.senate.gov",
+      "url": "https://www.hydesmith.senate.gov/contact-senator",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "H001089",
+      "host": "www.hawley.senate.gov",
+      "url": "https://www.hawley.senate.gov/contact-senator-hawley/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "H001097",
+      "host": "www.helmy.senate.gov",
+      "url": "https://www.helmy.senate.gov/share-your-opinion/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.helmy.senate.gov/share-your-opinion/ failed, reason: getaddrinfo ENOTFOUND www.helmy.senate.gov"
+    },
+    {
+      "slug": "H001104",
+      "host": "www.husted.senate.gov",
+      "url": "https://www.husted.senate.gov/contact-jon/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "I000024",
+      "host": "www.inhofe.senate.gov",
+      "url": "https://www.inhofe.senate.gov/contact/email-jim",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.inhofe.senate.gov/contact/email-jim failed, reason: getaddrinfo ENOTFOUND www.inhofe.senate.gov"
+    },
+    {
+      "slug": "J000032",
+      "host": "jacksonlee.house.gov",
+      "url": "http://jacksonlee.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://jacksonlee.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND jacksonlee.house.gov"
+    },
+    {
+      "slug": "J000126",
+      "host": "ebjohnson.house.gov",
+      "url": "https://ebjohnson.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://ebjohnson.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND ebjohnson.house.gov"
+    },
+    {
+      "slug": "J000255",
+      "host": "jones.house.gov",
+      "url": "https://jones.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://jones.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND jones.house.gov"
+    },
+    {
+      "slug": "J000288",
+      "host": "hankjohnson.house.gov",
+      "url": "https://hankjohnson.house.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "J000289",
+      "host": "jordan.house.gov",
+      "url": "http://jordan.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "J000292",
+      "host": "billjohnson.house.gov",
+      "url": "http://billjohnson.house.gov/contact/default.aspx",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://billjohnson.house.gov/contact/default.aspx failed, reason: getaddrinfo ENOTFOUND billjohnson.house.gov"
+    },
+    {
+      "slug": "J000293",
+      "host": "www.ronjohnson.senate.gov",
+      "url": "https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "J000294",
+      "host": "jeffriesforms.house.gov",
+      "url": "https://jeffriesforms.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "J000295",
+      "host": "joyce.house.gov",
+      "url": "https://joyce.house.gov/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "J000298",
+      "host": "jayapal.house.gov",
+      "url": "https://jayapal.house.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "J000299",
+      "host": "mikejohnson.house.gov",
+      "url": "https://mikejohnson.house.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "J000300",
+      "host": "www.jones.senate.gov",
+      "url": "https://www.jones.senate.gov/contact/email-doug",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.jones.senate.gov/contact/email-doug failed, reason: getaddrinfo ENOTFOUND www.jones.senate.gov"
+    },
+    {
+      "slug": "J000312",
+      "host": "www.justice.senate.gov",
+      "url": "https://www.justice.senate.gov/share-your-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "K000009",
+      "host": "kaptur.house.gov",
+      "url": "https://kaptur.house.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "K000188",
+      "host": "kind.house.gov",
+      "url": "https://kind.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://kind.house.gov/contact failed, reason: getaddrinfo ENOTFOUND kind.house.gov"
+    },
+    {
+      "slug": "K000210",
+      "host": "peteking.house.gov",
+      "url": "https://peteking.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://peteking.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND peteking.house.gov"
+    },
+    {
+      "slug": "K000362",
+      "host": "steveking.house.gov",
+      "url": "http://steveking.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://steveking.house.gov/contact failed, reason: getaddrinfo ENOTFOUND steveking.house.gov"
+    },
+    {
+      "slug": "K000367",
+      "host": "www.klobuchar.senate.gov",
+      "url": "https://www.klobuchar.senate.gov/public/index.cfm/email-amy",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "K000375",
+      "host": "keating.house.gov",
+      "url": "https://keating.house.gov/contact/email",
+      "status": 403,
+      "ok": false
+    },
+    {
+      "slug": "K000376",
+      "host": "kelly.house.gov",
+      "url": "https://kelly.house.gov/contact-me/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "K000377",
+      "host": "www.kelly.senate.gov",
+      "url": "https://www.kelly.senate.gov/contact/contact-form/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "K000378",
+      "host": "kinzinger.house.gov",
+      "url": "http://kinzinger.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://kinzinger.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND kinzinger.house.gov"
+    },
+    {
+      "slug": "K000379",
+      "host": "kennedy.house.gov",
+      "url": "https://kennedy.house.gov/contact/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "K000380",
+      "host": "dankildee.house.gov",
+      "url": "http://dankildee.house.gov/contact/email-me/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://dankildee.house.gov/contact/email-me/ failed, reason: getaddrinfo ENOTFOUND dankildee.house.gov"
+    },
+    {
+      "slug": "K000381",
+      "host": "kilmer.house.gov",
+      "url": "http://kilmer.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://kilmer.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND kilmer.house.gov"
+    },
+    {
+      "slug": "K000382",
+      "host": "kuster.house.gov",
+      "url": "https://kuster.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://kuster.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND kuster.house.gov"
+    },
+    {
+      "slug": "K000383",
+      "host": "www.king.senate.gov",
+      "url": "http://www.king.senate.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "K000384",
+      "host": "www.kaine.senate.gov",
+      "url": "https://www.kaine.senate.gov/contact/share-your-opinion",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "K000385",
+      "host": "robinkelly.house.gov",
+      "url": "https://robinkelly.house.gov/contact/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "K000386",
+      "host": "katkoforms.house.gov",
+      "url": "https://Katkoforms.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://katkoforms.house.gov/contact failed, reason: getaddrinfo ENOTFOUND katkoforms.house.gov"
+    },
+    {
+      "slug": "K000388",
+      "host": "trentkelly.house.gov",
+      "url": "http://trentkelly.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "K000389",
+      "host": "khannaforms.house.gov",
+      "url": "https://khannaforms.house.gov/forms/writeyourrep/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "K000391",
+      "host": "krishnamoorthiforms.house.gov",
+      "url": "https://krishnamoorthiforms.house.gov/forms/writeyourrep/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "K000392",
+      "host": "kustoff.house.gov",
+      "url": "https://kustoff.house.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "K000393",
+      "host": "www.kennedy.senate.gov",
+      "url": "https://www.kennedy.senate.gov/public/email-me-form",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "L000174",
+      "host": "www.leahy.senate.gov",
+      "url": "https://www.leahy.senate.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.leahy.senate.gov/contact/ failed, reason: getaddrinfo ENOTFOUND www.leahy.senate.gov"
+    },
+    {
+      "slug": "L000287",
+      "host": "johnlewis.house.gov",
+      "url": "https://johnlewis.house.gov/contact-me/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://johnlewis.house.gov/contact-me/email failed, reason: getaddrinfo ENOTFOUND johnlewis.house.gov"
+    },
+    {
+      "slug": "L000397",
+      "host": "lofgren.house.gov",
+      "url": "https://lofgren.house.gov/contact/default.aspx",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "L000480",
+      "host": "lowey.house.gov",
+      "url": "https://lowey.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://lowey.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND lowey.house.gov"
+    },
+    {
+      "slug": "L000491",
+      "host": "lucas.house.gov",
+      "url": "https://lucas.house.gov/contact-me/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "L000551",
+      "host": "lee.house.gov",
+      "url": "https://lee.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://lee.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND lee.house.gov"
+    },
+    {
+      "slug": "L000557",
+      "host": "larson.house.gov",
+      "url": "https://larson.house.gov/contact/email",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "L000559",
+      "host": "langevin.house.gov",
+      "url": "https://langevin.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://langevin.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND langevin.house.gov"
+    },
+    {
+      "slug": "L000560",
+      "host": "larsen.house.gov",
+      "url": "http://larsen.house.gov/contact-rick/email-rick",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "L000562",
+      "host": "lynch.house.gov",
+      "url": "https://lynch.house.gov/contact-me/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "L000563",
+      "host": "lipinskiforms.house.gov",
+      "url": "https://lipinskiforms.house.gov/contact-form",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://lipinskiforms.house.gov/contact-form failed, reason: getaddrinfo ENOTFOUND lipinskiforms.house.gov"
+    },
+    {
+      "slug": "L000564",
+      "host": "douglamborn.house.gov",
+      "url": "http://douglamborn.house.gov/contact/leave-a-comment.htm",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://douglamborn.house.gov/contact/leave-a-comment.htm failed, reason: getaddrinfo ENOTFOUND douglamborn.house.gov"
+    },
+    {
+      "slug": "L000565",
+      "host": "loebsack.house.gov",
+      "url": "https://loebsack.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://loebsack.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND loebsack.house.gov"
+    },
+    {
+      "slug": "L000566",
+      "host": "latta.house.gov",
+      "url": "https://latta.house.gov/contact/contactform.htm",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "L000569",
+      "host": "luetkemeyer.house.gov",
+      "url": "https://luetkemeyer.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://luetkemeyer.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND luetkemeyer.house.gov"
+    },
+    {
+      "slug": "L000570",
+      "host": "www.lujan.senate.gov",
+      "url": "https://www.lujan.senate.gov/contact/contact-form/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "L000571",
+      "host": "www.lummis.senate.gov",
+      "url": "https://www.lummis.senate.gov/contact/contact-form/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "L000575",
+      "host": "www.lankford.senate.gov",
+      "url": "https://www.lankford.senate.gov/contact/email/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "L000576",
+      "host": "longforms.house.gov",
+      "url": "https://longforms.house.gov/email-billy",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://longforms.house.gov/email-billy failed, reason: getaddrinfo ENOTFOUND longforms.house.gov"
+    },
+    {
+      "slug": "L000577",
+      "host": "www.lee.senate.gov",
+      "url": "https://www.lee.senate.gov/public/index.cfm/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "L000578",
+      "host": "lamalfa.house.gov",
+      "url": "https://lamalfa.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "L000579",
+      "host": "lowenthal.house.gov",
+      "url": "http://lowenthal.house.gov/contact/howtocontactme.htm",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://lowenthal.house.gov/contact/howtocontactme.htm failed, reason: getaddrinfo ENOTFOUND lowenthal.house.gov"
+    },
+    {
+      "slug": "L000581",
+      "host": "lawrence.house.gov",
+      "url": "https://lawrence.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://lawrence.house.gov/contact failed, reason: getaddrinfo ENOTFOUND lawrence.house.gov"
+    },
+    {
+      "slug": "L000582",
+      "host": "lieu.house.gov",
+      "url": "https://lieu.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "L000583",
+      "host": "loudermilk.house.gov",
+      "url": "http://loudermilk.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "L000585",
+      "host": "lahood.house.gov",
+      "url": "https://lahood.house.gov/contact/email",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "L000586",
+      "host": "lawson.house.gov",
+      "url": "https://lawson.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://lawson.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND lawson.house.gov"
+    },
+    {
+      "slug": "L000594",
+      "host": "www.loeffler.senate.gov",
+      "url": "https://www.loeffler.senate.gov/connect/email-kelly",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.loeffler.senate.gov/connect/email-kelly failed, reason: getaddrinfo ENOTFOUND www.loeffler.senate.gov"
+    },
+    {
+      "slug": "M000087",
+      "host": "maloney.house.gov",
+      "url": "https://maloney.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://maloney.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND maloney.house.gov"
+    },
+    {
+      "slug": "M000133",
+      "host": "www.markey.senate.gov",
+      "url": "https://www.markey.senate.gov/contact/share-your-opinion",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M000312",
+      "host": "jimmcgovern.house.gov",
+      "url": "https://jimmcgovern.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M000355",
+      "host": "www.mcconnell.senate.gov",
+      "url": "https://www.mcconnell.senate.gov/public/?p=ContactForm",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M000639",
+      "host": "www.menendez.senate.gov",
+      "url": "https://www.menendez.senate.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.menendez.senate.gov/contact/email failed, reason: getaddrinfo ENOTFOUND www.menendez.senate.gov"
+    },
+    {
+      "slug": "M000934",
+      "host": "www.moran.senate.gov",
+      "url": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001111",
+      "host": "www.murray.senate.gov",
+      "url": "https://www.murray.senate.gov/write-to-patty/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001137",
+      "host": "meeks.house.gov",
+      "url": "https://meeks.house.gov/contact-me/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "M001143",
+      "host": "mccollum.house.gov",
+      "url": "https://mccollum.house.gov/contact-me/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "M001153",
+      "host": "www.murkowski.senate.gov",
+      "url": "https://www.murkowski.senate.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001156",
+      "host": "mchenry.house.gov",
+      "url": "http://mchenry.house.gov/contact/zipauth.htm",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://mchenry.house.gov/contact/zipauth.htm failed, reason: getaddrinfo ENOTFOUND mchenry.house.gov"
+    },
+    {
+      "slug": "M001157",
+      "host": "mccaul.house.gov",
+      "url": "https://mccaul.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001158",
+      "host": "marchant.house.gov",
+      "url": "https://marchant.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://marchant.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND marchant.house.gov"
+    },
+    {
+      "slug": "M001159",
+      "host": "mcmorris.house.gov",
+      "url": "http://mcmorris.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://mcmorris.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND mcmorris.house.gov"
+    },
+    {
+      "slug": "M001160",
+      "host": "gwenmoore.house.gov",
+      "url": "https://gwenmoore.house.gov/contact-form",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "M001163",
+      "host": "matsui.house.gov",
+      "url": "https://matsui.house.gov/email-representative-matsui",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "M001165",
+      "host": "kevinmccarthy.house.gov",
+      "url": "https://kevinmccarthy.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://kevinmccarthy.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND kevinmccarthy.house.gov"
+    },
+    {
+      "slug": "M001166",
+      "host": "mcnerney.house.gov",
+      "url": "https://mcnerney.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://mcnerney.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND mcnerney.house.gov"
+    },
+    {
+      "slug": "M001169",
+      "host": "www.murphy.senate.gov",
+      "url": "http://www.murphy.senate.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001176",
+      "host": "www.merkley.senate.gov",
+      "url": "https://www.merkley.senate.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001177",
+      "host": "mcclintock.house.gov",
+      "url": "http://mcclintock.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001179",
+      "host": "marino.house.gov",
+      "url": "https://marino.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://marino.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND marino.house.gov"
+    },
+    {
+      "slug": "M001180",
+      "host": "mckinleyforms.house.gov",
+      "url": "https://mckinleyforms.house.gov/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://mckinleyforms.house.gov/email-me failed, reason: getaddrinfo ENOTFOUND mckinleyforms.house.gov"
+    },
+    {
+      "slug": "M001184",
+      "host": "massieforms.house.gov",
+      "url": "http://massieforms.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001185",
+      "host": "seanmaloney.house.gov",
+      "url": "https://seanmaloney.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://seanmaloney.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND seanmaloney.house.gov"
+    },
+    {
+      "slug": "M001187",
+      "host": "meadows.house.gov",
+      "url": "https://meadows.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://meadows.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND meadows.house.gov"
+    },
+    {
+      "slug": "M001188",
+      "host": "meng.house.gov",
+      "url": "https://meng.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001190",
+      "host": "www.mullin.senate.gov",
+      "url": "https://www.mullin.senate.gov/contact/contact-my-office/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001194",
+      "host": "moolenaar.house.gov",
+      "url": "https://moolenaar.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001195",
+      "host": "mooney.house.gov",
+      "url": "https://mooney.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://mooney.house.gov/contact failed, reason: getaddrinfo ENOTFOUND mooney.house.gov"
+    },
+    {
+      "slug": "M001196",
+      "host": "moulton.house.gov",
+      "url": "http://moulton.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001197",
+      "host": "www.mcsally.senate.gov",
+      "url": "https://www.mcsally.senate.gov/contact_martha",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.mcsally.senate.gov/contact_martha failed, reason: getaddrinfo ENOTFOUND www.mcsally.senate.gov"
+    },
+    {
+      "slug": "M001198",
+      "host": "www.marshall.senate.gov",
+      "url": "https://www.marshall.senate.gov/contact/contact-form/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001199",
+      "host": "mast.house.gov",
+      "url": "https://mast.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001200",
+      "host": "mceachin.house.gov",
+      "url": "https://mceachin.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://mceachin.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND mceachin.house.gov"
+    },
+    {
+      "slug": "M001201",
+      "host": "mitchell.house.gov",
+      "url": "https://mitchell.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://mitchell.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND mitchell.house.gov"
+    },
+    {
+      "slug": "M001202",
+      "host": "stephaniemurphyforms.house.gov",
+      "url": "https://stephaniemurphyforms.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://stephaniemurphyforms.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND stephaniemurphyforms.house.gov"
+    },
+    {
+      "slug": "M001242",
+      "host": "www.moreno.senate.gov",
+      "url": "https://www.moreno.senate.gov/share-your-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001243",
+      "host": "www.mccormick.senate.gov",
+      "url": "https://www.mccormick.senate.gov/share-your-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "M001244",
+      "host": "www.moody.senate.gov",
+      "url": "https://www.moody.senate.gov/share-your-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "N000002",
+      "host": "jerroldnadler.house.gov",
+      "url": "https://jerroldnadler.house.gov/forms/writeyourrep/default.aspx",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "T000193",
+      "host": "forms.house.gov",
+      "url": "https://forms.house.gov/benniethompson/contact-form.shtml",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "N000147",
+      "host": "norton.house.gov",
+      "url": "https://norton.house.gov/contact/email",
+      "status": 403,
+      "ok": false
+    },
+    {
+      "slug": "N000179",
+      "host": "napolitano.house.gov",
+      "url": "https://napolitano.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://napolitano.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND napolitano.house.gov"
+    },
+    {
+      "slug": "N000181",
+      "host": "nunes.house.gov",
+      "url": "https://nunes.house.gov/contactform/default.aspx",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://nunes.house.gov/contactform/default.aspx failed, reason: getaddrinfo ENOTFOUND nunes.house.gov"
+    },
+    {
+      "slug": "N000188",
+      "host": "norcross.house.gov",
+      "url": "https://norcross.house.gov/contact/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "N000189",
+      "host": "newhouse.house.gov",
+      "url": "https://newhouse.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "O000168",
+      "host": "olson.house.gov",
+      "url": "https://olson.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://olson.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND olson.house.gov"
+    },
+    {
+      "slug": "O000174",
+      "host": "www.ossoff.senate.gov",
+      "url": "https://www.ossoff.senate.gov/contact-us/message",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "P000034",
+      "host": "palloneforms.house.gov",
+      "url": "https://palloneforms.house.gov/contact/email/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "P000096",
+      "host": "pascrell.house.gov",
+      "url": "https://pascrell.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://pascrell.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND pascrell.house.gov"
+    },
+    {
+      "slug": "P000145",
+      "host": "www.padilla.senate.gov",
+      "url": "https://www.padilla.senate.gov/contact/contact-form/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "P000197",
+      "host": "pelosi.house.gov",
+      "url": "http://pelosi.house.gov/contact-me/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "P000258",
+      "host": "collinpeterson.house.gov",
+      "url": "https://collinpeterson.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://collinpeterson.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND collinpeterson.house.gov"
+    },
+    {
+      "slug": "P000449",
+      "host": "www.portman.senate.gov",
+      "url": "https://www.portman.senate.gov/meet/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.portman.senate.gov/meet/contact failed, reason: getaddrinfo ENOTFOUND www.portman.senate.gov"
+    },
+    {
+      "slug": "P000523",
+      "host": "priceforms.house.gov",
+      "url": "https://priceforms.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://priceforms.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND priceforms.house.gov"
+    },
+    {
+      "slug": "P000593",
+      "host": "perlmutter.house.gov",
+      "url": "https://perlmutter.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://perlmutter.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND perlmutter.house.gov"
+    },
+    {
+      "slug": "P000595",
+      "host": "www.peters.senate.gov",
+      "url": "https://www.peters.senate.gov/contact/email-gary",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "P000597",
+      "host": "pingree.house.gov",
+      "url": "https://pingree.house.gov/contact/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "P000599",
+      "host": "posey.house.gov",
+      "url": "https://posey.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://posey.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND posey.house.gov"
+    },
+    {
+      "slug": "P000601",
+      "host": "palazzo.house.gov",
+      "url": "http://palazzo.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://palazzo.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND palazzo.house.gov"
+    },
+    {
+      "slug": "P000603",
+      "host": "www.paul.senate.gov",
+      "url": "https://www.paul.senate.gov/connect/email-rand",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "P000604",
+      "host": "payne.house.gov",
+      "url": "http://payne.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://payne.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND payne.house.gov"
+    },
+    {
+      "slug": "P000605",
+      "host": "perry.house.gov",
+      "url": "http://perry.house.gov/forms/writeyourrep/default.aspx",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "P000607",
+      "host": "pocan.house.gov",
+      "url": "https://pocan.house.gov/contact/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "P000608",
+      "host": "scottpeters.house.gov",
+      "url": "https://scottpeters.house.gov/contact/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "P000609",
+      "host": "palmer.house.gov",
+      "url": "https://palmer.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "P000610",
+      "host": "plaskettforms.house.gov",
+      "url": "https://Plaskettforms.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "P000612",
+      "host": "www.perdue.senate.gov",
+      "url": "http://www.perdue.senate.gov/connect/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://www.perdue.senate.gov/connect/email failed, reason: getaddrinfo ENOTFOUND www.perdue.senate.gov"
+    },
+    {
+      "slug": "P000613",
+      "host": "panetta.house.gov",
+      "url": "https://panetta.house.gov/contact/email",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "Q000023",
+      "host": "quigleyforms.house.gov",
+      "url": "https://quigleyforms.house.gov/forms/writeyourrep/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "R000122",
+      "host": "www.reed.senate.gov",
+      "url": "https://www.reed.senate.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "R000307",
+      "host": "www.roberts.senate.gov",
+      "url": "https://www.roberts.senate.gov/public/index.cfm/emailpat",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.roberts.senate.gov/public/index.cfm/emailpat failed, reason: getaddrinfo ENOTFOUND www.roberts.senate.gov"
+    },
+    {
+      "slug": "R000395",
+      "host": "halrogers.house.gov",
+      "url": "https://halrogers.house.gov/contact/contactform.htm",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "R000486",
+      "host": "roybal-allard.house.gov",
+      "url": "http://roybal-allard.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://roybal-allard.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND roybal-allard.house.gov"
+    },
+    {
+      "slug": "R000515",
+      "host": "rush.house.gov",
+      "url": "http://rush.house.gov/contact/legislative-issues",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://rush.house.gov/contact/legislative-issues failed, reason: getaddrinfo ENOTFOUND rush.house.gov"
+    },
+    {
+      "slug": "R000575",
+      "host": "mikerogers.house.gov",
+      "url": "http://mikerogers.house.gov/contact-mike/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "R000576",
+      "host": "ruppersberger.house.gov",
+      "url": "http://ruppersberger.house.gov/contact-dutch/email-dutch",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://ruppersberger.house.gov/contact-dutch/email-dutch failed, reason: getaddrinfo ENOTFOUND ruppersberger.house.gov"
+    },
+    {
+      "slug": "R000577",
+      "host": "timryanforms.house.gov",
+      "url": "http://timryanforms.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://timryanforms.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND timryanforms.house.gov"
+    },
+    {
+      "slug": "R000582",
+      "host": "roe.house.gov",
+      "url": "http://roe.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://roe.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND roe.house.gov"
+    },
+    {
+      "slug": "R000584",
+      "host": "www.risch.senate.gov",
+      "url": "http://www.risch.senate.gov/public/index.cfm?p=Email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "R000585",
+      "host": "reed.house.gov",
+      "url": "https://reed.house.gov/contact/email",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://reed.house.gov/contact/email failed, reason: getaddrinfo ENOTFOUND reed.house.gov"
+    },
+    {
+      "slug": "R000588",
+      "host": "richmond.house.gov",
+      "url": "https://richmond.house.gov/contact-cedric",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://richmond.house.gov/contact-cedric failed, reason: getaddrinfo ENOTFOUND richmond.house.gov"
+    },
+    {
+      "slug": "R000591",
+      "host": "roby.house.gov",
+      "url": "https://roby.house.gov/contact-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://roby.house.gov/contact-me failed, reason: getaddrinfo ENOTFOUND roby.house.gov"
+    },
+    {
+      "slug": "R000595",
+      "host": "www.rubio.senate.gov",
+      "url": "https://www.rubio.senate.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.rubio.senate.gov/contact/ failed, reason: getaddrinfo ENOTFOUND www.rubio.senate.gov"
+    },
+    {
+      "slug": "R000597",
+      "host": "tomriceforms.house.gov",
+      "url": "https://tomriceforms.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://tomriceforms.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND tomriceforms.house.gov"
+    },
+    {
+      "slug": "R000599",
+      "host": "ruiz.house.gov",
+      "url": "https://ruiz.house.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "R000600",
+      "host": "radewagen.house.gov",
+      "url": "https://radewagen.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "R000601",
+      "host": "ratcliffe.house.gov",
+      "url": "https://ratcliffe.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://ratcliffe.house.gov/contact failed, reason: getaddrinfo ENOTFOUND ratcliffe.house.gov"
+    },
+    {
+      "slug": "R000602",
+      "host": "kathleenrice.house.gov",
+      "url": "https://kathleenrice.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://kathleenrice.house.gov/contact failed, reason: getaddrinfo ENOTFOUND kathleenrice.house.gov"
+    },
+    {
+      "slug": "R000603",
+      "host": "rouzer.house.gov",
+      "url": "https://rouzer.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "R000605",
+      "host": "www.rounds.senate.gov",
+      "url": "https://www.rounds.senate.gov/contact/email-mike",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "R000606",
+      "host": "raskin.house.gov",
+      "url": "https://raskin.house.gov/contact/email",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "R000607",
+      "host": "rooneyforms.house.gov",
+      "url": "https://rooneyforms.house.gov/forms/writeyourrep/",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "R000608",
+      "host": "www.rosen.senate.gov",
+      "url": "https://www.rosen.senate.gov/contact_jacky",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "R000609",
+      "host": "rutherford.house.gov",
+      "url": "https://rutherford.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "R000615",
+      "host": "www.romney.senate.gov",
+      "url": "https://www.romney.senate.gov/contact-senator-romney",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.romney.senate.gov/contact-senator-romney failed, reason: getaddrinfo ENOTFOUND www.romney.senate.gov"
+    },
+    {
+      "slug": "R000618",
+      "host": "www.ricketts.senate.gov",
+      "url": "https://www.ricketts.senate.gov/share-your-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S000033",
+      "host": "www.sanders.senate.gov",
+      "url": "https://www.sanders.senate.gov/contact/contact-form/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S000148",
+      "host": "www.schumer.senate.gov",
+      "url": "http://www.schumer.senate.gov/contact/email-chuck",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S000185",
+      "host": "bobbyscott.house.gov",
+      "url": "https://bobbyscott.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S000244",
+      "host": "sensenbrenner.house.gov",
+      "url": "http://sensenbrenner.house.gov/contact/email.htm",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://sensenbrenner.house.gov/contact/email.htm failed, reason: getaddrinfo ENOTFOUND sensenbrenner.house.gov"
+    },
+    {
+      "slug": "S000248",
+      "host": "serrano.house.gov",
+      "url": "https://serrano.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://serrano.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND serrano.house.gov"
+    },
+    {
+      "slug": "S000320",
+      "host": "www.shelby.senate.gov",
+      "url": "https://www.shelby.senate.gov/public/index.cfm/emailsenatorshelby",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.shelby.senate.gov/public/index.cfm/emailsenatorshelby failed, reason: getaddrinfo ENOTFOUND www.shelby.senate.gov"
+    },
+    {
+      "slug": "S000344",
+      "host": "sherman.house.gov",
+      "url": "http://sherman.house.gov/contact/contact-congressman-sherman-form",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "S000364",
+      "host": "shimkus.house.gov",
+      "url": "https://shimkus.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://shimkus.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND shimkus.house.gov"
+    },
+    {
+      "slug": "S000510",
+      "host": "adamsmith.house.gov",
+      "url": "https://adamsmith.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S000522",
+      "host": "chrissmith.house.gov",
+      "url": "https://chrissmith.house.gov/contact/write.htm",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S000770",
+      "host": "www.stabenow.senate.gov",
+      "url": "https://www.stabenow.senate.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.stabenow.senate.gov/contact failed, reason: getaddrinfo ENOTFOUND www.stabenow.senate.gov"
+    },
+    {
+      "slug": "S001145",
+      "host": "schakowsky.house.gov",
+      "url": "https://schakowsky.house.gov/write-to-congresswoman-jan-schakowsky",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001148",
+      "host": "simpson.house.gov",
+      "url": "http://simpson.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001150",
+      "host": "www.schiff.senate.gov",
+      "url": "https://www.schiff.senate.gov/contact/get-in-touch/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001156",
+      "host": "lindasanchez.house.gov",
+      "url": "https://lindasanchez.house.gov/contact/email",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "S001157",
+      "host": "davidscott.house.gov",
+      "url": "https://davidscott.house.gov/contact/contactform.htm",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001165",
+      "host": "sires.house.gov",
+      "url": "https://sires.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://sires.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND sires.house.gov"
+    },
+    {
+      "slug": "S001168",
+      "host": "sarbanes.house.gov",
+      "url": "https://sarbanes.house.gov/contact/email-me-bills",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://sarbanes.house.gov/contact/email-me-bills failed, reason: getaddrinfo ENOTFOUND sarbanes.house.gov"
+    },
+    {
+      "slug": "S001172",
+      "host": "adriansmith.house.gov",
+      "url": "https://adriansmith.house.gov/contact-me/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "S001175",
+      "host": "speier.house.gov",
+      "url": "https://speier.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://speier.house.gov/contact failed, reason: getaddrinfo ENOTFOUND speier.house.gov"
+    },
+    {
+      "slug": "S001176",
+      "host": "scaliseforms.house.gov",
+      "url": "https://scaliseforms.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001177",
+      "host": "sablan.house.gov",
+      "url": "https://sablan.house.gov/contact-me/email-me-zip-authenticated",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://sablan.house.gov/contact-me/email-me-zip-authenticated failed, reason: getaddrinfo ENOTFOUND sablan.house.gov"
+    },
+    {
+      "slug": "S001180",
+      "host": "schrader.house.gov",
+      "url": "https://schrader.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://schrader.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND schrader.house.gov"
+    },
+    {
+      "slug": "S001181",
+      "host": "www.shaheen.senate.gov",
+      "url": "https://www.shaheen.senate.gov/contact/contact-jeanne",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001184",
+      "host": "www.scott.senate.gov",
+      "url": "http://www.scott.senate.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001185",
+      "host": "sewell.house.gov",
+      "url": "https://sewell.house.gov/contact/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "S001187",
+      "host": "stivers.house.gov",
+      "url": "https://stivers.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://stivers.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND stivers.house.gov"
+    },
+    {
+      "slug": "S001189",
+      "host": "austinscott.house.gov",
+      "url": "https://austinscott.house.gov/contact/email",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "S001191",
+      "host": "www.sinema.senate.gov",
+      "url": "https://www.sinema.senate.gov/contact-kyrsten",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.sinema.senate.gov/contact-kyrsten failed, reason: getaddrinfo ENOTFOUND www.sinema.senate.gov"
+    },
+    {
+      "slug": "S001192",
+      "host": "stewart.house.gov",
+      "url": "https://stewart.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://stewart.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND stewart.house.gov"
+    },
+    {
+      "slug": "S001193",
+      "host": "swalwellforms.house.gov",
+      "url": "http://swalwellforms.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://swalwellforms.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND swalwellforms.house.gov"
+    },
+    {
+      "slug": "S001194",
+      "host": "www.schatz.senate.gov",
+      "url": "https://www.schatz.senate.gov/contact/share-your-thoughts/form",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001195",
+      "host": "jasonsmith.house.gov",
+      "url": "https://jasonsmith.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001196",
+      "host": "stefanik.house.gov",
+      "url": "https://stefanik.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001197",
+      "host": "www.sasse.senate.gov",
+      "url": "https://www.sasse.senate.gov/public/index.cfm/email-ben",
+      "status": 503,
+      "ok": false
+    },
+    {
+      "slug": "S001198",
+      "host": "www.sullivan.senate.gov",
+      "url": "https://www.sullivan.senate.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001199",
+      "host": "smucker.house.gov",
+      "url": "https://smucker.house.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001200",
+      "host": "soto.house.gov",
+      "url": "https://soto.house.gov/contact/email",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "S001201",
+      "host": "suozzi.house.gov",
+      "url": "https://suozzi.house.gov/contact/email",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "S001203",
+      "host": "www.smith.senate.gov",
+      "url": "https://www.smith.senate.gov/share-your-opinion",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001208",
+      "host": "www.slotkin.senate.gov",
+      "url": "https://www.slotkin.senate.gov/contact-your-senator/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001217",
+      "host": "www.rickscott.senate.gov",
+      "url": "https://www.rickscott.senate.gov/contact/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001227",
+      "host": "www.schmitt.senate.gov",
+      "url": "https://www.schmitt.senate.gov/share-your-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "S001232",
+      "host": "www.sheehy.senate.gov",
+      "url": "https://www.sheehy.senate.gov/share-your-opinion/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "T000238",
+      "host": "thornberry.house.gov",
+      "url": "https://thornberry.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://thornberry.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND thornberry.house.gov"
+    },
+    {
+      "slug": "T000250",
+      "host": "www.thune.senate.gov",
+      "url": "https://www.thune.senate.gov/public/index.cfm/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "T000278",
+      "host": "www.tuberville.senate.gov",
+      "url": "https://www.tuberville.senate.gov/contact/contact-form/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "T000460",
+      "host": "mikethompsonforms.house.gov",
+      "url": "https://mikethompsonforms.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "T000461",
+      "host": "www.toomey.senate.gov",
+      "url": "https://www.toomey.senate.gov/contact/email-senator-toomey",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.toomey.senate.gov/contact/email-senator-toomey failed, reason: getaddrinfo ENOTFOUND www.toomey.senate.gov"
+    },
+    {
+      "slug": "T000463",
+      "host": "turner.house.gov",
+      "url": "http://turner.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "T000464",
+      "host": "www.tester.senate.gov",
+      "url": "http://www.tester.senate.gov/?p=email_senator",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://www.tester.senate.gov/?p=email_senator failed, reason: getaddrinfo ENOTFOUND www.tester.senate.gov"
+    },
+    {
+      "slug": "T000467",
+      "host": "thompson.house.gov",
+      "url": "https://thompson.house.gov/contact-me/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "T000468",
+      "host": "titus.house.gov",
+      "url": "https://titus.house.gov/contact/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "T000469",
+      "host": "tonkoforms.house.gov",
+      "url": "https://tonkoforms.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "T000470",
+      "host": "tipton.house.gov",
+      "url": "https://tipton.house.gov/contact-me/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://tipton.house.gov/contact-me/email-me failed, reason: getaddrinfo ENOTFOUND tipton.house.gov"
+    },
+    {
+      "slug": "T000472",
+      "host": "takano.house.gov",
+      "url": "https://takano.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "T000474",
+      "host": "torresforms.house.gov",
+      "url": "https://Torresforms.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://torresforms.house.gov/contact failed, reason: getaddrinfo ENOTFOUND torresforms.house.gov"
+    },
+    {
+      "slug": "T000476",
+      "host": "www.tillis.senate.gov",
+      "url": "http://www.tillis.senate.gov/public/index.cfm/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "U000031",
+      "host": "upton.house.gov",
+      "url": "http://upton.house.gov/contact/zipauth.htm",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://upton.house.gov/contact/zipauth.htm failed, reason: getaddrinfo ENOTFOUND upton.house.gov"
+    },
+    {
+      "slug": "U000039",
+      "host": "www.tomudall.senate.gov",
+      "url": "https://www.tomudall.senate.gov/contact/email-tom",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.tomudall.senate.gov/contact/email-tom failed, reason: getaddrinfo ENOTFOUND www.tomudall.senate.gov"
+    },
+    {
+      "slug": "V000081",
+      "host": "velazquez.house.gov",
+      "url": "https://velazquez.house.gov/contact/email",
+      "status": 403,
+      "ok": false
+    },
+    {
+      "slug": "V000108",
+      "host": "visclosky.house.gov",
+      "url": "https://visclosky.house.gov/contact-pete/email-pete",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://visclosky.house.gov/contact-pete/email-pete failed, reason: getaddrinfo ENOTFOUND visclosky.house.gov"
+    },
+    {
+      "slug": "V000128",
+      "host": "www.vanhollen.senate.gov",
+      "url": "https://www.vanhollen.senate.gov/contact/email",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "V000130",
+      "host": "vargas.house.gov",
+      "url": "https://vargas.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "V000131",
+      "host": "veaseyforms.house.gov",
+      "url": "https://veaseyforms.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://veaseyforms.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND veaseyforms.house.gov"
+    },
+    {
+      "slug": "V000132",
+      "host": "vela.house.gov",
+      "url": "https://vela.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://vela.house.gov/contact failed, reason: getaddrinfo ENOTFOUND vela.house.gov"
+    },
+    {
+      "slug": "V000137",
+      "host": "www.vance.senate.gov",
+      "url": "https://www.vance.senate.gov/share-your-opinion/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://www.vance.senate.gov/share-your-opinion/ failed, reason: getaddrinfo ENOTFOUND www.vance.senate.gov"
+    },
+    {
+      "slug": "W000187",
+      "host": "waters.house.gov",
+      "url": "https://waters.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000437",
+      "host": "www.wicker.senate.gov",
+      "url": "https://www.wicker.senate.gov/public/index.cfm/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000779",
+      "host": "www.wyden.senate.gov",
+      "url": "https://www.wyden.senate.gov/contact/email-ron",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000790",
+      "host": "www.warnock.senate.gov",
+      "url": "https://www.warnock.senate.gov/contact/contact-form/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000791",
+      "host": "walden.house.gov",
+      "url": "https://walden.house.gov/contact-greg/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://walden.house.gov/contact-greg/email-me failed, reason: getaddrinfo ENOTFOUND walden.house.gov"
+    },
+    {
+      "slug": "W000795",
+      "host": "joewilson.house.gov",
+      "url": "https://joewilson.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000797",
+      "host": "wassermanschultz.house.gov",
+      "url": "https://wassermanschultz.house.gov/email-me",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "W000798",
+      "host": "walberg.house.gov",
+      "url": "https://walberg.house.gov/contact/contactform.htm",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "W000800",
+      "host": "www.welch.senate.gov",
+      "url": "https://www.welch.senate.gov/email-peter/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000802",
+      "host": "www.whitehouse.senate.gov",
+      "url": "https://www.whitehouse.senate.gov/contact/email-sheldon",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000804",
+      "host": "robwittmanforms.house.gov",
+      "url": "http://robwittmanforms.house.gov/contact/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000805",
+      "host": "www.warner.senate.gov",
+      "url": "https://www.warner.senate.gov/public/index.cfm/contactpage#form_f9db6196-2dc7-4cda-8add-f8435a71318a",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000806",
+      "host": "webster.house.gov",
+      "url": "https://webster.house.gov/contact/contactform.htm",
+      "status": 404,
+      "ok": false
+    },
+    {
+      "slug": "W000808",
+      "host": "wilson.house.gov",
+      "url": "https://wilson.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000809",
+      "host": "womack.house.gov",
+      "url": "https://womack.house.gov/contact/contactform.htm",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000810",
+      "host": "woodall.house.gov",
+      "url": "https://woodall.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://woodall.house.gov/contact failed, reason: getaddrinfo ENOTFOUND woodall.house.gov"
+    },
+    {
+      "slug": "W000812",
+      "host": "wagner.house.gov",
+      "url": "https://wagner.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000813",
+      "host": "walorski.house.gov",
+      "url": "http://walorski.house.gov/contact/email/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://walorski.house.gov/contact/email/ failed, reason: getaddrinfo ENOTFOUND walorski.house.gov"
+    },
+    {
+      "slug": "W000815",
+      "host": "wenstrup.house.gov",
+      "url": "http://wenstrup.house.gov/contact/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://wenstrup.house.gov/contact/ failed, reason: getaddrinfo ENOTFOUND wenstrup.house.gov"
+    },
+    {
+      "slug": "W000816",
+      "host": "williams.house.gov",
+      "url": "https://williams.house.gov/contact/email-me",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000817",
+      "host": "www.warren.senate.gov",
+      "url": "https://www.warren.senate.gov/contact/shareyouropinion",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000819",
+      "host": "walkerforms.house.gov",
+      "url": "https://Walkerforms.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://walkerforms.house.gov/contact failed, reason: getaddrinfo ENOTFOUND walkerforms.house.gov"
+    },
+    {
+      "slug": "W000821",
+      "host": "westerman.house.gov",
+      "url": "https://westerman.house.gov/contact",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "W000822",
+      "host": "watsoncoleman.house.gov",
+      "url": "https://watsoncoleman.house.gov/contact/email",
+      "status": 410,
+      "ok": false
+    },
+    {
+      "slug": "Y000033",
+      "host": "donyoung.house.gov",
+      "url": "https://donyoung.house.gov/forms/writeyourrep/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://donyoung.house.gov/forms/writeyourrep/ failed, reason: getaddrinfo ENOTFOUND donyoung.house.gov"
+    },
+    {
+      "slug": "Y000062",
+      "host": "yarmuth.house.gov",
+      "url": "http://yarmuth.house.gov/contact-john2/",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to http://yarmuth.house.gov/contact-john2/ failed, reason: getaddrinfo ENOTFOUND yarmuth.house.gov"
+    },
+    {
+      "slug": "Y000064",
+      "host": "www.young.senate.gov",
+      "url": "https://www.young.senate.gov/contact/email-todd",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "slug": "Y000065",
+      "host": "yoho.house.gov",
+      "url": "https://yoho.house.gov/contact/email-me",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://yoho.house.gov/contact/email-me failed, reason: getaddrinfo ENOTFOUND yoho.house.gov"
+    },
+    {
+      "slug": "Z000017",
+      "host": "zeldin.house.gov",
+      "url": "https://zeldin.house.gov/contact",
+      "status": "ERROR",
+      "ok": false,
+      "error": "request to https://zeldin.house.gov/contact failed, reason: getaddrinfo ENOTFOUND zeldin.house.gov"
+    }
+  ]
+}

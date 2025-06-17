@@ -1,0 +1,3 @@
+[submodule "specs/contact-congress"]
+	path = specs/contact-congress
+	url = https://github.com/unitedstates/contact-congress.git
